@@ -1,0 +1,2 @@
+# .github
+Docs about project
